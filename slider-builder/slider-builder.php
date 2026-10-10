@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: My Simple Plugin
+ * Plugin Name: Slider Builder
  * Description: A simple plugin with no functionality.
  * Version: 1.0
- * Author: Author
+ * Author: James Garcia
  */
 
 register_activation_hook( __FILE__, "activate_plugin_routine" );
