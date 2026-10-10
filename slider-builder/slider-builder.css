@@ -1,0 +1,15 @@
+/*
+ * Slider Builder default styles.
+ */
+
+.slider-builder-wrap {
+	margin: 0 auto;
+	max-width: 1080px;
+}
+
+.slider-builder-box {
+	background: #fff;
+	border: 1px solid #e2e4e7;
+	border-radius: 6px;
+	padding: 24px;
+}
